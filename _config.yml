@@ -1,7 +1,7 @@
 name: Kurt At Work
 favicon: null
-layout_spectrum: 0.2843230478465557
-typography_spectrum: 0.4587548163253814
+layout_spectrum: 1
+typography_spectrum: 0.23239
 title: Kurt At Work - Phone Repair
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.6395779105369002
-  lightness: 0.029690335039049387
-  saturation: 0.4907279494218528
-  rhythmicContrast: 0.9833792429417372
+  brandStrength: 0.1875
+  lightness: 0
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
