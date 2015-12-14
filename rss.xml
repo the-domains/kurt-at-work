@@ -4,7 +4,7 @@
         <description><![CDATA[Kurt At Work - Phone Repair]]></description>
         <link>https://thegrid.ai/kurt-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 12:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 12:44:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kurt-at-work/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tablet Repair]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Phone Repair]]></title>
-            <description><![CDATA[<h1>Phone Repair</h1>]]></description>
+            <description><![CDATA[<article><h1>Phone Repair</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82698bddf9e919794bc7c8f2f7c76fded53aec1e.jpg"></article>]]></description>
             <link>https://thegrid.ai/kurt-at-work/phone-repair/index.html</link>
             <guid isPermaLink="false">ded27fa7-3002-43aa-afb2-5f420bfb7c9f</guid>
-            <pubDate>Mon, 14 Dec 2015 12:41:25 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 12:43:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
