@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kurt At Work - Phone Repair]]></title>
-        <description><![CDATA[Kurt At Work - Phone Repair]]></description>
+        <title><![CDATA[Kurt At Work ]]></title>
+        <description><![CDATA[Kurt At Work ]]></description>
         <link>https://thegrid.ai/kurt-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 12:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 13:03:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kurt-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Kurt At Work]]></title>
+            <description><![CDATA[<article><h1>About Kurt At Work</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54312c92884912376568147eb48ba45b05ffba98.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kurt-at-work/about-kurt-at-work/index.html</link>
+            <guid isPermaLink="false">17d5ecf0-67f5-48b8-aee9-7c2aab884576</guid>
+            <pubDate>Mon, 14 Dec 2015 13:03:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tablet Repair]]></title>
             <description><![CDATA[<article><h1>Tablet Repair</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3916d17a61e48394081f55106fbfec36df08d0e.jpg"></article>]]></description>
