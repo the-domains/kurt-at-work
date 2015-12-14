@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kurt At Work - Phone Repair]]></title>
         <description><![CDATA[Kurt At Work - Phone Repair]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kurt-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 12:41:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 12:42:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kurt-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tablet Repair]]></title>
+            <description><![CDATA[<h1>Tablet Repair</h1>]]></description>
+            <link>https://thegrid.ai/kurt-at-work/tablet-repair/index.html</link>
+            <guid isPermaLink="false">be063250-764a-403a-bc46-cad4bb81985e</guid>
+            <pubDate>Mon, 14 Dec 2015 12:42:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Phone Repair]]></title>
             <description><![CDATA[<h1>Phone Repair</h1>]]></description>
-            <link>undefinedphone-repair/index.html</link>
+            <link>https://thegrid.ai/kurt-at-work/phone-repair/index.html</link>
             <guid isPermaLink="false">ded27fa7-3002-43aa-afb2-5f420bfb7c9f</guid>
             <pubDate>Mon, 14 Dec 2015 12:41:25 GMT</pubDate>
         </item>
