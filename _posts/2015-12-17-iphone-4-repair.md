@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T16:02:49.015Z'
-dateModified: '2015-12-17T16:02:45.482Z'
+datePublished: '2015-12-17T16:03:51.238Z'
+dateModified: '2015-12-17T16:03:34.208Z'
 title: iPhone 4/4s Repair
 author: []
 sourcePath: _posts/2015-12-17-iphone-4-repair.md
@@ -27,9 +27,9 @@ _type: Article
 ****
 
 # Fix a broken iPhone 4 or 4s
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e7cdb1b-b7be-442a-a2c1-2c12a7df7b43.jpg)
 
 _**Pricing:**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e7cdb1b-b7be-442a-a2c1-2c12a7df7b43.jpg)
 
 * Screen Replacement - $80
 * Front or Rear Camera Replacement - $60
