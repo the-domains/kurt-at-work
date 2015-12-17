@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T11:57:55.872Z'
-dateModified: '2015-12-17T11:56:15.480Z'
-title: iPhone 4 Repair
+datePublished: '2015-12-17T13:40:07.711Z'
+dateModified: '2015-12-17T13:40:06.465Z'
+title: iPhone 4/4s Repair
 author: []
 authors: []
 publisher:
@@ -22,11 +22,9 @@ url: iphone-4-repair/index.html
 _type: Article
 
 ---
-# **iPhone 4 Repair**
-null
+# **iPhone 4/4s Repair**
 
-# Got a broken iPhone 4?   
-...well, you don't have to.
+# Fix a broken iPhone 4 or 4s
 
 _**Pricing:**_
 
@@ -38,4 +36,4 @@ _**Pricing:**_
 * Home Button Replacement - $50
 * Power/Volume Flex cable Replacement - $50
 * Vibrator Module Replacement - $50
-null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd78dcc8-d9eb-4359-b901-29f36eed0fa3.jpg)
