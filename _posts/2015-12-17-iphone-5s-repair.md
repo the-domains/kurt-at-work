@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T16:27:52.822Z'
-dateModified: '2015-12-17T16:27:37.191Z'
+datePublished: '2015-12-17T17:06:07.979Z'
+dateModified: '2015-12-17T17:05:50.685Z'
 title: iPhone 5s Repair
 author: []
 authors: []
@@ -24,13 +24,14 @@ _type: Article
 ---
 # **iPhone 5s Repair**
 
-No need to let a little broken glass get you down...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7122dbf3-6e61-4676-81f6-0f1e88992199.png)
+Quit cutting your fingers and dealing with quick-dead batteries and n0-good charging ports. Turn that frown right side round by getting your tech up to par.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d792277b-25fd-4044-843a-423b32cea9ca.png)
 
 # Fix your broken iPhone 5s
 
 **_Pricing:_**
 
 * Screen Replacement - $150
-* blah blah blah - $50
-* blah blah blah - $50
+* Home Button Replacement - $50
+* Battery Replacement - $60
+* Front or Rear Camera Replacement - $60
