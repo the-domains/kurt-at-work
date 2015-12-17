@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T16:21:41.548Z'
-dateModified: '2015-12-17T16:21:36.508Z'
+datePublished: '2015-12-17T16:22:02.723Z'
+dateModified: '2015-12-17T16:21:57.264Z'
 title: iPhone 4/4s Repair
 author: []
 sourcePath: _posts/2015-12-17-iphone-4-repair.md
