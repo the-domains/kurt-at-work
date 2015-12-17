@@ -1,6 +1,6 @@
 name: Kurt At Work
 favicon: null
-layout_spectrum: 0.7339
+layout_spectrum: 1
 typography_spectrum: 0.24443
 title: 'Kurt At Work '
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2a4c61'
-    - '#e5e8e4'
-    - '#d6c4b7'
-    - '#8f908e'
-    - '#070b0f'
+    - '#030200'
+    - '#2f2c1d'
+    - '#e7a95c'
+    - '#f5dd9d'
+    - '#4d97a4'
   brandStrength: 0
   lightness: 0
   saturation: 0
