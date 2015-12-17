@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T13:43:03.236Z'
-dateModified: '2015-12-17T13:42:53.459Z'
+datePublished: '2015-12-17T13:55:55.955Z'
+dateModified: '2015-12-17T13:55:54.165Z'
 title: iPhone 4/4s Repair
 author: []
 sourcePath: _posts/2015-12-17-iphone-4-repair.md
@@ -22,8 +22,9 @@ url: iphone-4-repair/index.html
 _type: Article
 
 ---
-# **iPhone 4/4s Repair**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e7cdb1b-b7be-442a-a2c1-2c12a7df7b43.jpg)
+
+# **iPhone 4/4s Repair**
 
 ****
 
